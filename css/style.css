@@ -172,10 +172,14 @@ body{
     font-size: 20px;
     cursor: pointer;
 }
+
 .footer p{
     color: gray;
     font-size: 14px;
     font-weight: 200;
+}
+.footer p span{
+    font-weight: 700;
 }
 /* footer ends here*/
 
